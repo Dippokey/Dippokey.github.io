@@ -1,7 +1,7 @@
 body{
 
   background-image:
-   url("lightblue2.jpg");
+   url("lightblue2.jpg") no-repeat center center;
   background-position: center;
   font-family: sans-serif;
 }
